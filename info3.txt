@@ -1,1 +1,5 @@
+Adding the first line to the file
+
 This file will be added to first_branch
+
+This is the last line of the file
