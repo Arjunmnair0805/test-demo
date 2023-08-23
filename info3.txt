@@ -2,4 +2,8 @@ Adding the first line to the file
 
 This file will be added to first_branch
 
+Adding a new line to create merge conflict
+
+Hope this causes the issue for the file 
+
 This is the last line of the file
